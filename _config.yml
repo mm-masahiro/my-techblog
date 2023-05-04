@@ -22,7 +22,7 @@ title: mm-techblog
 github_username: mm-masahiro
 
 # Build settings
-theme: Hacker
+theme: hacker
 plugins:
   - jekyll-feed
 
